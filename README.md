@@ -13,3 +13,5 @@ In Requirements.txt, download compatible version for absl-py & opencv
 Run file : SMPL/render_smpl.py 
 Description is further provided in : https://github.com/PacktPublishing/3D-Deep-Learning-with-Python/tree/main/chap8
 Book: 3D Learning with Python
+
+Result.png shows the output mesh for the pressure mat images of a person sleeping in dataset. 
